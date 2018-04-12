@@ -1,4 +1,4 @@
-# logic-homework
+# Aristotle
 
 A (fairly) simple program to implement some concepts I've been learning in my Logic 101 class.
 
